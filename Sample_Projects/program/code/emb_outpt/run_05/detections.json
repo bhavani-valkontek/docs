@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "bounding_box": [
+            130,
+            15,
+            675,
+            222
+        ],
+        "confidence": 0.99,
+        "raw_text": "N/A",
+        "validated_text": "N/A",
+        "ocr_time": 1.52,
+        "image_crop": "emb_outpt\\run_05\\crop_1.jpg",
+        "processed_image": "emb_outpt\\run_05\\processed_1.jpg"
+    }
+]

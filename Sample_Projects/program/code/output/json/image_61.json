@@ -1,0 +1,15 @@
+{
+    "timestamp": "2025-04-14 11:30:42",
+    "detections": [
+        {
+            "label": "chassis",
+            "confidence": 0.99,
+            "bounding_box": [
+                458,
+                233,
+                836,
+                356
+            ]
+        }
+    ]
+}

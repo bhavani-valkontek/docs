@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "bounding_box": [
+            549,
+            0,
+            5175,
+            1660
+        ],
+        "confidence": 0.986,
+        "raw_text": "N/A",
+        "validated_text": "N/A",
+        "ocr_time": 26.22,
+        "image_crop": "emb_outpt\\run_03\\crop_1.jpg",
+        "processed_image": "emb_outpt\\run_03\\processed_1.jpg"
+    },
+    {
+        "id": 2,
+        "bounding_box": [
+            561,
+            4,
+            5167,
+            1197
+        ],
+        "confidence": 0.968,
+        "raw_text": "N/A",
+        "validated_text": "N/A",
+        "ocr_time": 27.23,
+        "image_crop": "emb_outpt\\run_03\\crop_2.jpg",
+        "processed_image": "emb_outpt\\run_03\\processed_2.jpg"
+    }
+]

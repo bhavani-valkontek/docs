@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "bounding_box": [
+            193,
+            28,
+            606,
+            192
+        ],
+        "confidence": 0.988,
+        "text": "ZLP0419NP",
+        "ocr_time": 1.09,
+        "image_crop": "emb_output\\run_03\\crop_1.jpg",
+        "processed_image": "emb_output\\run_03\\processed_1.jpg"
+    }
+]

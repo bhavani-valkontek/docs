@@ -1,0 +1,16 @@
+{
+    "timestamp": "2025-04-19 18:23:36",
+    "detections": [
+        {
+            "label": "number",
+            "detected_text": "",
+            "confidence": 1.0,
+            "bounding_box": [
+                334,
+                251,
+                862,
+                354
+            ]
+        }
+    ]
+}

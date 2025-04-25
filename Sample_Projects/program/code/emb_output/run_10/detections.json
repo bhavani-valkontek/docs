@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "bounding_box": [
+            150,
+            9,
+            641,
+            213
+        ],
+        "confidence": 0.995,
+        "text": "4S0559244",
+        "ocr_time": 1.47,
+        "image_crop": "emb_output\\run_10\\crop_1.jpg",
+        "processed_image": "emb_output\\run_10\\processed_1.jpg"
+    },
+    {
+        "id": 2,
+        "bounding_box": [
+            156,
+            0,
+            637,
+            270
+        ],
+        "confidence": 0.377,
+        "text": "AS055924",
+        "ocr_time": 1.81,
+        "image_crop": "emb_output\\run_10\\crop_2.jpg",
+        "processed_image": "emb_output\\run_10\\processed_2.jpg"
+    }
+]

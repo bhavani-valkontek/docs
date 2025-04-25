@@ -1,0 +1,85 @@
+{
+    "timestamp": "2025-04-22 11:54:53",
+    "detections": [
+        {
+            "label": "5",
+            "confidence": 0.82,
+            "bounding_box": [
+                2552,
+                1326,
+                2861,
+                1829
+            ]
+        },
+        {
+            "label": "9",
+            "confidence": 0.8,
+            "bounding_box": [
+                3470,
+                1299,
+                3795,
+                1786
+            ]
+        },
+        {
+            "label": "6",
+            "confidence": 0.71,
+            "bounding_box": [
+                2917,
+                1331,
+                3202,
+                1710
+            ]
+        },
+        {
+            "label": "7",
+            "confidence": 0.66,
+            "bounding_box": [
+                3210,
+                1331,
+                3495,
+                1829
+            ]
+        },
+        {
+            "label": "Z",
+            "confidence": 0.66,
+            "bounding_box": [
+                942,
+                1261,
+                1349,
+                1894
+            ]
+        },
+        {
+            "label": "W",
+            "confidence": 0.51,
+            "bounding_box": [
+                3836,
+                1266,
+                4283,
+                1926
+            ]
+        },
+        {
+            "label": "4",
+            "confidence": 0.42,
+            "bounding_box": [
+                1357,
+                1282,
+                1804,
+                1883
+            ]
+        },
+        {
+            "label": "5",
+            "confidence": 0.41,
+            "bounding_box": [
+                1771,
+                1288,
+                2194,
+                1878
+            ]
+        }
+    ]
+}

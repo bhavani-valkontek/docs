@@ -1,0 +1,255 @@
+{
+    "timestamp": "2025-04-24 21:30:16",
+    "detections": [
+        {
+            "label": "W",
+            "confidence": 0.9,
+            "bounding_box": [
+                187,
+                248,
+                223,
+                303
+            ]
+        },
+        {
+            "label": "X",
+            "confidence": 0.84,
+            "bounding_box": [
+                227,
+                243,
+                262,
+                303
+            ]
+        },
+        {
+            "label": "9",
+            "confidence": 0.8,
+            "bounding_box": [
+                375,
+                106,
+                400,
+                146
+            ]
+        },
+        {
+            "label": "I",
+            "confidence": 0.79,
+            "bounding_box": [
+                375,
+                183,
+                397,
+                232
+            ]
+        },
+        {
+            "label": "J",
+            "confidence": 0.77,
+            "bounding_box": [
+                396,
+                177,
+                431,
+                230
+            ]
+        },
+        {
+            "label": "3",
+            "confidence": 0.77,
+            "bounding_box": [
+                171,
+                108,
+                201,
+                156
+            ]
+        },
+        {
+            "label": "A",
+            "confidence": 0.77,
+            "bounding_box": [
+                58,
+                186,
+                97,
+                241
+            ]
+        },
+        {
+            "label": "V",
+            "confidence": 0.76,
+            "bounding_box": [
+                152,
+                254,
+                182,
+                309
+            ]
+        },
+        {
+            "label": "G",
+            "confidence": 0.74,
+            "bounding_box": [
+                306,
+                182,
+                342,
+                232
+            ]
+        },
+        {
+            "label": "8",
+            "confidence": 0.74,
+            "bounding_box": [
+                341,
+                104,
+                368,
+                146
+            ]
+        },
+        {
+            "label": "K",
+            "confidence": 0.73,
+            "bounding_box": [
+                428,
+                178,
+                461,
+                231
+            ]
+        },
+        {
+            "label": "U",
+            "confidence": 0.73,
+            "bounding_box": [
+                123,
+                260,
+                152,
+                313
+            ]
+        },
+        {
+            "label": "C",
+            "confidence": 0.65,
+            "bounding_box": [
+                146,
+                185,
+                182,
+                235
+            ]
+        },
+        {
+            "label": "1",
+            "confidence": 0.59,
+            "bounding_box": [
+                111,
+                106,
+                133,
+                157
+            ]
+        },
+        {
+            "label": "D",
+            "confidence": 0.55,
+            "bounding_box": [
+                187,
+                183,
+                218,
+                234
+            ]
+        },
+        {
+            "label": "B",
+            "confidence": 0.53,
+            "bounding_box": [
+                102,
+                187,
+                140,
+                236
+            ]
+        },
+        {
+            "label": "U",
+            "confidence": 0.51,
+            "bounding_box": [
+                110,
+                261,
+                132,
+                314
+            ]
+        },
+        {
+            "label": "4",
+            "confidence": 0.5,
+            "bounding_box": [
+                206,
+                104,
+                233,
+                151
+            ]
+        },
+        {
+            "label": "2",
+            "confidence": 0.44,
+            "bounding_box": [
+                141,
+                106,
+                166,
+                152
+            ]
+        },
+        {
+            "label": "5",
+            "confidence": 0.43,
+            "bounding_box": [
+                240,
+                106,
+                271,
+                151
+            ]
+        },
+        {
+            "label": "L",
+            "confidence": 0.42,
+            "bounding_box": [
+                467,
+                178,
+                505,
+                228
+            ]
+        },
+        {
+            "label": "0",
+            "confidence": 0.36,
+            "bounding_box": [
+                78,
+                106,
+                106,
+                156
+            ]
+        },
+        {
+            "label": "6",
+            "confidence": 0.28,
+            "bounding_box": [
+                273,
+                103,
+                301,
+                148
+            ]
+        },
+        {
+            "label": "6",
+            "confidence": 0.27,
+            "bounding_box": [
+                241,
+                106,
+                270,
+                150
+            ]
+        },
+        {
+            "label": "I",
+            "confidence": 0.26,
+            "bounding_box": [
+                270,
+                184,
+                293,
+                230
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "bounding_box": [
+            175,
+            32,
+            626,
+            204
+        ],
+        "confidence": 0.99,
+        "text": "ZLSOSS98WR",
+        "ocr_time": 1.35,
+        "image_crop": "emb_output\\run_15\\crop_1.jpg"
+    }
+]

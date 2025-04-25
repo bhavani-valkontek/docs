@@ -1,0 +1,2 @@
+id,bounding_box,confidence,raw_text,validated_text,ocr_time,image_crop,processed_image
+1,"[140, 74, 658, 191]",0.888,N/A,N/A,0.86,emb_outpt\run_01\crop_1.jpg,emb_outpt\run_01\processed_1.jpg

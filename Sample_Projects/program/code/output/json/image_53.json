@@ -1,0 +1,65 @@
+{
+    "timestamp": "2025-04-12 12:30:46",
+    "detections": [
+        {
+            "label": "Z",
+            "confidence": 0.91,
+            "bounding_box": [
+                1024,
+                0,
+                1090,
+                83
+            ]
+        },
+        {
+            "label": "4",
+            "confidence": 0.76,
+            "bounding_box": [
+                542,
+                293,
+                604,
+                343
+            ]
+        },
+        {
+            "label": "4",
+            "confidence": 0.7,
+            "bounding_box": [
+                572,
+                294,
+                606,
+                340
+            ]
+        },
+        {
+            "label": "6",
+            "confidence": 0.61,
+            "bounding_box": [
+                710,
+                273,
+                738,
+                305
+            ]
+        },
+        {
+            "label": "6",
+            "confidence": 0.39,
+            "bounding_box": [
+                680,
+                280,
+                706,
+                313
+            ]
+        },
+        {
+            "label": "4",
+            "confidence": 0.32,
+            "bounding_box": [
+                542,
+                294,
+                582,
+                340
+            ]
+        }
+    ]
+}

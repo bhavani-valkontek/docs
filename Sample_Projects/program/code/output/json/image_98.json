@@ -1,0 +1,25 @@
+{
+    "timestamp": "2025-04-19 17:59:34",
+    "detections": [
+        {
+            "label": "number",
+            "confidence": 0.98,
+            "bounding_box": [
+                414,
+                216,
+                666,
+                295
+            ]
+        },
+        {
+            "label": "number",
+            "confidence": 0.72,
+            "bounding_box": [
+                496,
+                0,
+                696,
+                99
+            ]
+        }
+    ]
+}

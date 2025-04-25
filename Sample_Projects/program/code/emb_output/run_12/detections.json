@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "bounding_box": [
+            931,
+            73,
+            4755,
+            1519
+        ],
+        "confidence": 0.986,
+        "text": "N/A",
+        "ocr_time": 29.47,
+        "image_crop": "emb_output\\run_12\\crop_1.jpg"
+    },
+    {
+        "id": 2,
+        "bounding_box": [
+            941,
+            102,
+            4749,
+            1089
+        ],
+        "confidence": 0.968,
+        "text": "N/A",
+        "ocr_time": 22.27,
+        "image_crop": "emb_output\\run_12\\crop_2.jpg"
+    }
+]

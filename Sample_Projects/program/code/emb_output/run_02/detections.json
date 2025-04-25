@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "bounding_box": [
+            504,
+            209,
+            912,
+            426
+        ],
+        "confidence": 0.836,
+        "text": "NA",
+        "ocr_time": 1.08,
+        "image_crop": "emb_output\\run_02\\crop_1.jpg",
+        "processed_image": "emb_output\\run_02\\processed_1.jpg"
+    }
+]

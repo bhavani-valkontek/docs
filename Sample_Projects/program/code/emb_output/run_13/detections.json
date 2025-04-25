@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "bounding_box": [
+            172,
+            31,
+            619,
+            191
+        ],
+        "confidence": 0.995,
+        "text": "ZLSOSS98WR",
+        "ocr_time": 1.13,
+        "image_crop": "emb_output\\run_13\\crop_1.jpg"
+    },
+    {
+        "id": 2,
+        "bounding_box": [
+            177,
+            21,
+            616,
+            249
+        ],
+        "confidence": 0.377,
+        "text": "ZLSOSS98WR",
+        "ocr_time": 1.53,
+        "image_crop": "emb_output\\run_13\\crop_2.jpg"
+    }
+]

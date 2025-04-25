@@ -1,0 +1,325 @@
+{
+    "timestamp": "2025-04-05 18:32:56",
+    "detections": [
+        {
+            "label": "W",
+            "confidence": 0.91,
+            "bounding_box": [
+                382,
+                255,
+                412,
+                306
+            ]
+        },
+        {
+            "label": "4",
+            "confidence": 0.9,
+            "bounding_box": [
+                448,
+                115,
+                472,
+                157
+            ]
+        },
+        {
+            "label": "5",
+            "confidence": 0.89,
+            "bounding_box": [
+                476,
+                112,
+                500,
+                154
+            ]
+        },
+        {
+            "label": "L",
+            "confidence": 0.85,
+            "bounding_box": [
+                664,
+                167,
+                696,
+                229
+            ]
+        },
+        {
+            "label": "V",
+            "confidence": 0.83,
+            "bounding_box": [
+                350,
+                256,
+                376,
+                303
+            ]
+        },
+        {
+            "label": "J",
+            "confidence": 0.82,
+            "bounding_box": [
+                600,
+                163,
+                628,
+                223
+            ]
+        },
+        {
+            "label": "N",
+            "confidence": 0.82,
+            "bounding_box": [
+                734,
+                168,
+                770,
+                229
+            ]
+        },
+        {
+            "label": "O",
+            "confidence": 0.81,
+            "bounding_box": [
+                778,
+                173,
+                812,
+                230
+            ]
+        },
+        {
+            "label": "6",
+            "confidence": 0.79,
+            "bounding_box": [
+                506,
+                111,
+                534,
+                150
+            ]
+        },
+        {
+            "label": "Z",
+            "confidence": 0.79,
+            "bounding_box": [
+                490,
+                238,
+                524,
+                293
+            ]
+        },
+        {
+            "label": "M",
+            "confidence": 0.79,
+            "bounding_box": [
+                696,
+                169,
+                728,
+                230
+            ]
+        },
+        {
+            "label": "9",
+            "confidence": 0.77,
+            "bounding_box": [
+                602,
+                104,
+                626,
+                146
+            ]
+        },
+        {
+            "label": "G",
+            "confidence": 0.77,
+            "bounding_box": [
+                522,
+                174,
+                556,
+                226
+            ]
+        },
+        {
+            "label": "8",
+            "confidence": 0.77,
+            "bounding_box": [
+                570,
+                105,
+                596,
+                147
+            ]
+        },
+        {
+            "label": "7",
+            "confidence": 0.75,
+            "bounding_box": [
+                540,
+                106,
+                564,
+                150
+            ]
+        },
+        {
+            "label": "P",
+            "confidence": 0.74,
+            "bounding_box": [
+                814,
+                174,
+                850,
+                234
+            ]
+        },
+        {
+            "label": "3",
+            "confidence": 0.72,
+            "bounding_box": [
+                420,
+                119,
+                444,
+                158
+            ]
+        },
+        {
+            "label": "K",
+            "confidence": 0.72,
+            "bounding_box": [
+                630,
+                169,
+                664,
+                235
+            ]
+        },
+        {
+            "label": "W",
+            "confidence": 0.64,
+            "bounding_box": [
+                418,
+                247,
+                454,
+                302
+            ]
+        },
+        {
+            "label": "C",
+            "confidence": 0.63,
+            "bounding_box": [
+                386,
+                182,
+                414,
+                230
+            ]
+        },
+        {
+            "label": "U",
+            "confidence": 0.61,
+            "bounding_box": [
+                318,
+                255,
+                348,
+                310
+            ]
+        },
+        {
+            "label": "F",
+            "confidence": 0.6,
+            "bounding_box": [
+                494,
+                175,
+                520,
+                225
+            ]
+        },
+        {
+            "label": "D",
+            "confidence": 0.59,
+            "bounding_box": [
+                420,
+                182,
+                448,
+                230
+            ]
+        },
+        {
+            "label": "R",
+            "confidence": 0.58,
+            "bounding_box": [
+                866,
+                173,
+                902,
+                236
+            ]
+        },
+        {
+            "label": "X",
+            "confidence": 0.56,
+            "bounding_box": [
+                418,
+                247,
+                454,
+                302
+            ]
+        },
+        {
+            "label": "I",
+            "confidence": 0.52,
+            "bounding_box": [
+                576,
+                171,
+                596,
+                228
+            ]
+        },
+        {
+            "label": "E",
+            "confidence": 0.51,
+            "bounding_box": [
+                458,
+                175,
+                488,
+                223
+            ]
+        },
+        {
+            "label": "B",
+            "confidence": 0.41,
+            "bounding_box": [
+                354,
+                184,
+                380,
+                234
+            ]
+        },
+        {
+            "label": "1",
+            "confidence": 0.4,
+            "bounding_box": [
+                368,
+                127,
+                384,
+                165
+            ]
+        },
+        {
+            "label": "2",
+            "confidence": 0.34,
+            "bounding_box": [
+                388,
+                124,
+                414,
+                163
+            ]
+        },
+        {
+            "label": "A",
+            "confidence": 0.32,
+            "bounding_box": [
+                324,
+                187,
+                350,
+                235
+            ]
+        },
+        {
+            "label": "0",
+            "confidence": 0.26,
+            "bounding_box": [
+                346,
+                129,
+                368,
+                169
+            ]
+        }
+    ]
+}

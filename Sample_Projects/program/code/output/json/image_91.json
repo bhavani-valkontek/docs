@@ -1,0 +1,115 @@
+{
+    "timestamp": "2025-04-19 17:52:45",
+    "detections": [
+        {
+            "label": "I",
+            "confidence": 0.46,
+            "bounding_box": [
+                658,
+                215,
+                712,
+                279
+            ]
+        },
+        {
+            "label": "J",
+            "confidence": 0.43,
+            "bounding_box": [
+                626,
+                537,
+                678,
+                575
+            ]
+        },
+        {
+            "label": "K",
+            "confidence": 0.38,
+            "bounding_box": [
+                512,
+                226,
+                600,
+                282
+            ]
+        },
+        {
+            "label": "K",
+            "confidence": 0.32,
+            "bounding_box": [
+                178,
+                554,
+                242,
+                575
+            ]
+        },
+        {
+            "label": "J",
+            "confidence": 0.28,
+            "bounding_box": [
+                434,
+                219,
+                514,
+                284
+            ]
+        },
+        {
+            "label": "J",
+            "confidence": 0.27,
+            "bounding_box": [
+                398,
+                547,
+                450,
+                575
+            ]
+        },
+        {
+            "label": "K",
+            "confidence": 0.26,
+            "bounding_box": [
+                98,
+                556,
+                160,
+                576
+            ]
+        },
+        {
+            "label": "J",
+            "confidence": 0.26,
+            "bounding_box": [
+                1236,
+                493,
+                1280,
+                562
+            ]
+        },
+        {
+            "label": "J",
+            "confidence": 0.26,
+            "bounding_box": [
+                612,
+                536,
+                670,
+                575
+            ]
+        },
+        {
+            "label": "J",
+            "confidence": 0.26,
+            "bounding_box": [
+                140,
+                553,
+                194,
+                575
+            ]
+        },
+        {
+            "label": "K",
+            "confidence": 0.25,
+            "bounding_box": [
+                10,
+                554,
+                70,
+                576
+            ]
+        }
+    ]
+}

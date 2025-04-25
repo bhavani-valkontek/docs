@@ -1,0 +1,45 @@
+{
+    "timestamp": "2025-04-19 17:41:18",
+    "detections": [
+        {
+            "label": "DIGIT_8",
+            "confidence": 0.47,
+            "bounding_box": [
+                604,
+                288,
+                642,
+                335
+            ]
+        },
+        {
+            "label": "DIGIT_9",
+            "confidence": 0.33,
+            "bounding_box": [
+                604,
+                288,
+                642,
+                334
+            ]
+        },
+        {
+            "label": "DIGIT_8",
+            "confidence": 0.31,
+            "bounding_box": [
+                650,
+                283,
+                678,
+                324
+            ]
+        },
+        {
+            "label": "DIGIT_9",
+            "confidence": 0.26,
+            "bounding_box": [
+                680,
+                275,
+                706,
+                315
+            ]
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "timestamp": "2025-04-24 19:12:23",
+    "detections": [
+        {
+            "label": "X",
+            "confidence": 0.88,
+            "bounding_box": [
+                214,
+                201,
+                255,
+                260
+            ]
+        },
+        {
+            "label": "P",
+            "confidence": 0.87,
+            "bounding_box": [
+                575,
+                137,
+                607,
+                188
+            ]
+        },
+        {
+            "label": "8",
+            "confidence": 0.85,
+            "bounding_box": [
+                303,
+                42,
+                331,
+                84
+            ]
+        },
+        {
+            "label": "K",
+            "confidence": 0.84,
+            "bounding_box": [
+                389,
+                128,
+                419,
+                180
+            ]
+        },
+        {
+            "label": "N",
+            "confidence": 0.84,
+            "bounding_box": [
+                497,
+                127,
+                534,
+                178
+            ]
+        },
+        {
+            "label": "9",
+            "confidence": 0.81,
+            "bounding_box": [
+                336,
+                44,
+                363,
+                88
+            ]
+        },
+        {
+            "label": "O",
+            "confidence": 0.81,
+            "bounding_box": [
+                537,
+                132,
+                571,
+                183
+            ]
+        },
+        {
+            "label": "J",
+            "confidence": 0.81,
+            "bounding_box": [
+                361,
+                123,
+                385,
+                177
+            ]
+        },
+        {
+            "label": "M",
+            "confidence": 0.81,
+            "bounding_box": [
+                459,
+                130,
+                493,
+                180
+            ]
+        },
+        {
+            "label": "G",
+            "confidence": 0.79,
+            "bounding_box": [
+                264,
+                123,
+                297,
+                176
+            ]
+        },
+        {
+            "label": "7",
+            "confidence": 0.78,
+            "bounding_box": [
+                271,
+                44,
+                297,
+                87
+            ]
+        },
+        {
+            "label": "I",
+            "confidence": 0.78,
+            "bounding_box": [
+                337,
+                126,
+                353,
+                179
+            ]
+        },
+        {
+            "label": "L",
+            "confidence": 0.75,
+            "bounding_box": [
+                425,
+                125,
+                458,
+                180
+            ]
+        },
+        {
+            "label": "V",
+            "confidence": 0.67,
+            "bounding_box": [
+                116,
+                200,
+                159,
+                253
+            ]
+        },
+        {
+            "label": "W",
+            "confidence": 0.66,
+            "bounding_box": [
+                166,
+                201,
+                202,
+                249
+            ]
+        },
+        {
+            "label": "Z",
+            "confidence": 0.64,
+            "bounding_box": [
+                293,
+                188,
+                334,
+                257
+            ]
+        },
+        {
+            "label": "0",
+            "confidence": 0.59,
+            "bounding_box": [
+                46,
+                50,
+                74,
+                96
+            ]
+        },
+        {
+            "label": "6",
+            "confidence": 0.53,
+            "bounding_box": [
+                238,
+                44,
+                268,
+                85
+            ]
+        },
+        {
+            "label": "U",
+            "confidence": 0.51,
+            "bounding_box": [
+                80,
+                205,
+                96,
+                254
+            ]
+        }
+    ]
+}

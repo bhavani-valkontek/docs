@@ -1,0 +1,285 @@
+{
+    "timestamp": "2025-04-11 16:00:04",
+    "detections": [
+        {
+            "label": "X",
+            "confidence": 0.96,
+            "bounding_box": [
+                640,
+                559,
+                777,
+                728
+            ]
+        },
+        {
+            "label": "9",
+            "confidence": 0.95,
+            "bounding_box": [
+                1020,
+                103,
+                1111,
+                232
+            ]
+        },
+        {
+            "label": "O",
+            "confidence": 0.95,
+            "bounding_box": [
+                1865,
+                369,
+                1974,
+                534
+            ]
+        },
+        {
+            "label": "V",
+            "confidence": 0.94,
+            "bounding_box": [
+                376,
+                545,
+                470,
+                707
+            ]
+        },
+        {
+            "label": "N",
+            "confidence": 0.93,
+            "bounding_box": [
+                1695,
+                378,
+                1822,
+                538
+            ]
+        },
+        {
+            "label": "K",
+            "confidence": 0.91,
+            "bounding_box": [
+                1336,
+                388,
+                1445,
+                546
+            ]
+        },
+        {
+            "label": "6",
+            "confidence": 0.9,
+            "bounding_box": [
+                716,
+                87,
+                801,
+                211
+            ]
+        },
+        {
+            "label": "P",
+            "confidence": 0.88,
+            "bounding_box": [
+                1989,
+                382,
+                2105,
+                555
+            ]
+        },
+        {
+            "label": "3",
+            "confidence": 0.88,
+            "bounding_box": [
+                407,
+                109,
+                492,
+                237
+            ]
+        },
+        {
+            "label": "1",
+            "confidence": 0.87,
+            "bounding_box": [
+                224,
+                120,
+                285,
+                248
+            ]
+        },
+        {
+            "label": "2",
+            "confidence": 0.87,
+            "bounding_box": [
+                303,
+                111,
+                388,
+                242
+            ]
+        },
+        {
+            "label": "F",
+            "confidence": 0.84,
+            "bounding_box": [
+                753,
+                371,
+                865,
+                546
+            ]
+        },
+        {
+            "label": "D",
+            "confidence": 0.82,
+            "bounding_box": [
+                486,
+                381,
+                592,
+                534
+            ]
+        },
+        {
+            "label": "U",
+            "confidence": 0.81,
+            "bounding_box": [
+                246,
+                562,
+                358,
+                718
+            ]
+        },
+        {
+            "label": "Z",
+            "confidence": 0.8,
+            "bounding_box": [
+                868,
+                532,
+                1002,
+                712
+            ]
+        },
+        {
+            "label": "L",
+            "confidence": 0.79,
+            "bounding_box": [
+                1452,
+                386,
+                1576,
+                540
+            ]
+        },
+        {
+            "label": "4",
+            "confidence": 0.77,
+            "bounding_box": [
+                516,
+                111,
+                595,
+                232
+            ]
+        },
+        {
+            "label": "J",
+            "confidence": 0.74,
+            "bounding_box": [
+                1233,
+                385,
+                1330,
+                538
+            ]
+        },
+        {
+            "label": "R",
+            "confidence": 0.69,
+            "bounding_box": [
+                2205,
+                384,
+                2323,
+                542
+            ]
+        },
+        {
+            "label": "5",
+            "confidence": 0.66,
+            "bounding_box": [
+                616,
+                109,
+                692,
+                229
+            ]
+        },
+        {
+            "label": "M",
+            "confidence": 0.66,
+            "bounding_box": [
+                1579,
+                380,
+                1692,
+                537
+            ]
+        },
+        {
+            "label": "I",
+            "confidence": 0.65,
+            "bounding_box": [
+                1154,
+                378,
+                1215,
+                538
+            ]
+        },
+        {
+            "label": "E",
+            "confidence": 0.62,
+            "bounding_box": [
+                628,
+                367,
+                738,
+                523
+            ]
+        },
+        {
+            "label": "A",
+            "confidence": 0.58,
+            "bounding_box": [
+                63,
+                360,
+                161,
+                527
+            ]
+        },
+        {
+            "label": "7",
+            "confidence": 0.56,
+            "bounding_box": [
+                820,
+                81,
+                905,
+                215
+            ]
+        },
+        {
+            "label": "W",
+            "confidence": 0.54,
+            "bounding_box": [
+                501,
+                559,
+                607,
+                703
+            ]
+        },
+        {
+            "label": "0",
+            "confidence": 0.36,
+            "bounding_box": [
+                133,
+                113,
+                206,
+                242
+            ]
+        },
+        {
+            "label": "F",
+            "confidence": 0.25,
+            "bounding_box": [
+                203,
+                377,
+                294,
+                530
+            ]
+        }
+    ]
+}

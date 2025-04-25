@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "bounding_box": [
+            699,
+            0,
+            4998,
+            1660
+        ],
+        "confidence": 0.993,
+        "text": "ZLS05619W",
+        "ocr_time": 28.55,
+        "image_crop": "emb_output\\run_17\\crop_1.jpg",
+        "processed_image": "emb_output\\run_17\\processed_1.jpg"
+    }
+]

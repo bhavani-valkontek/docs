@@ -1,0 +1,3 @@
+id,bounding_box,confidence,text,ocr_time,image_crop
+1,"[931, 73, 4755, 1519]",0.986,N/A,29.47,emb_output\run_12\crop_1.jpg
+2,"[941, 102, 4749, 1089]",0.968,N/A,22.27,emb_output\run_12\crop_2.jpg

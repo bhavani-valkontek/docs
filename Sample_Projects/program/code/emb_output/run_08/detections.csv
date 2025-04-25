@@ -1,0 +1,5 @@
+id,bounding_box,confidence,raw_text,validated_text,ocr_time,image_crop,processed_image
+1,"[66, 49, 160, 129]",0.613,H3,N/A,0.24,emb_output\run_08\crop_1.jpg,emb_output\run_08\processed_1.jpg
+2,"[31, 50, 177, 132]",0.443,JH,N/A,0.37,emb_output\run_08\crop_2.jpg,emb_output\run_08\processed_2.jpg
+3,"[23, 49, 258, 134]",0.364,A3,N/A,0.4,emb_output\run_08\crop_3.jpg,emb_output\run_08\processed_3.jpg
+4,"[0, 49, 291, 138]",0.272,A3 N 7,A3N7,0.64,emb_output\run_08\crop_4.jpg,emb_output\run_08\processed_4.jpg

@@ -1,0 +1,2 @@
+id,bounding_box,confidence,text,ocr_time,image_crop,processed_image
+1,"[193, 28, 606, 192]",0.988,ZLP0419NP,1.09,emb_output\run_03\crop_1.jpg,emb_output\run_03\processed_1.jpg

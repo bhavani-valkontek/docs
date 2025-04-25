@@ -1,0 +1,55 @@
+{
+    "timestamp": "2025-04-11 16:13:51",
+    "detections": [
+        {
+            "label": "4",
+            "confidence": 0.77,
+            "bounding_box": [
+                565,
+                263,
+                601,
+                312
+            ]
+        },
+        {
+            "label": "0",
+            "confidence": 0.6,
+            "bounding_box": [
+                613,
+                267,
+                645,
+                312
+            ]
+        },
+        {
+            "label": "0",
+            "confidence": 0.43,
+            "bounding_box": [
+                421,
+                275,
+                455,
+                321
+            ]
+        },
+        {
+            "label": "5",
+            "confidence": 0.36,
+            "bounding_box": [
+                513,
+                263,
+                550,
+                312
+            ]
+        },
+        {
+            "label": "5",
+            "confidence": 0.34,
+            "bounding_box": [
+                468,
+                264,
+                508,
+                312
+            ]
+        }
+    ]
+}

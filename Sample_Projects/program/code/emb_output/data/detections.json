@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "timestamp": "20250422_191453",
+        "bounding_box": [
+            153,
+            10,
+            648,
+            226
+        ],
+        "confidence": 0.99,
+        "text": "ZLSO2JFWF",
+        "ocr_time": 1.46,
+        "image_crop": "emb_output\\crop_images\\crop_20250422_191453_1.jpg",
+        "processed_image": "emb_output\\processed_images\\processed_20250422_191453_1.jpg"
+    }
+]

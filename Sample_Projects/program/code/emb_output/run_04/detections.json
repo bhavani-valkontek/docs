@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "bounding_box": [
+            48,
+            13,
+            372,
+            151
+        ],
+        "confidence": 0.914,
+        "text": "AJ1156",
+        "ocr_time": 0.79,
+        "image_crop": "emb_output\\run_04\\crop_1.jpg",
+        "processed_image": "emb_output\\run_04\\processed_1.jpg"
+    },
+    {
+        "id": 2,
+        "bounding_box": [
+            33,
+            17,
+            279,
+            151
+        ],
+        "confidence": 0.819,
+        "text": "AJJ1",
+        "ocr_time": 0.59,
+        "image_crop": "emb_output\\run_04\\crop_2.jpg",
+        "processed_image": "emb_output\\run_04\\processed_2.jpg"
+    },
+    {
+        "id": 3,
+        "bounding_box": [
+            91,
+            26,
+            377,
+            151
+        ],
+        "confidence": 0.343,
+        "text": "VK1150",
+        "ocr_time": 0.56,
+        "image_crop": "emb_output\\run_04\\crop_3.jpg",
+        "processed_image": "emb_output\\run_04\\processed_3.jpg"
+    }
+]

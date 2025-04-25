@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "bounding_box": [
+            153,
+            10,
+            648,
+            226
+        ],
+        "confidence": 0.99,
+        "text": "ZLSO2JFWF",
+        "ocr_time": 1.51,
+        "image_crop": "emb_output\\run_18\\crop_1.jpg",
+        "processed_image": "emb_output\\run_18\\processed_1.jpg"
+    }
+]

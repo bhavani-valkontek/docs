@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "bounding_box": [
+            66,
+            49,
+            160,
+            129
+        ],
+        "confidence": 0.613,
+        "raw_text": "H3",
+        "validated_text": "N/A",
+        "ocr_time": 0.24,
+        "image_crop": "emb_output\\run_08\\crop_1.jpg",
+        "processed_image": "emb_output\\run_08\\processed_1.jpg"
+    },
+    {
+        "id": 2,
+        "bounding_box": [
+            31,
+            50,
+            177,
+            132
+        ],
+        "confidence": 0.443,
+        "raw_text": "JH",
+        "validated_text": "N/A",
+        "ocr_time": 0.37,
+        "image_crop": "emb_output\\run_08\\crop_2.jpg",
+        "processed_image": "emb_output\\run_08\\processed_2.jpg"
+    },
+    {
+        "id": 3,
+        "bounding_box": [
+            23,
+            49,
+            258,
+            134
+        ],
+        "confidence": 0.364,
+        "raw_text": "A3",
+        "validated_text": "N/A",
+        "ocr_time": 0.4,
+        "image_crop": "emb_output\\run_08\\crop_3.jpg",
+        "processed_image": "emb_output\\run_08\\processed_3.jpg"
+    },
+    {
+        "id": 4,
+        "bounding_box": [
+            0,
+            49,
+            291,
+            138
+        ],
+        "confidence": 0.272,
+        "raw_text": "A3 N 7",
+        "validated_text": "A3N7",
+        "ocr_time": 0.64,
+        "image_crop": "emb_output\\run_08\\crop_4.jpg",
+        "processed_image": "emb_output\\run_08\\processed_4.jpg"
+    }
+]

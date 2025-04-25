@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "bounding_box": [
+            219,
+            72,
+            563,
+            159
+        ],
+        "confidence": 0.995,
+        "text": "ZLPoz N {",
+        "ocr_time": 0.65,
+        "image_crop": "emb_output\\run_06\\crop_1.jpg"
+    },
+    {
+        "id": 2,
+        "bounding_box": [
+            221,
+            72,
+            482,
+            143
+        ],
+        "confidence": 0.259,
+        "text": "ZLPo41/9",
+        "ocr_time": 0.47,
+        "image_crop": "emb_output\\run_06\\crop_2.jpg"
+    }
+]
